@@ -1,2 +1,5 @@
-# Prova-Eliel-06-04-2026
-Prova Java CRUD
+Como rodar
+
+Abrir o IntelliJ
+Rodar como Spring Boot App
+A API vai subir em http://localhost:8080
